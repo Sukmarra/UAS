@@ -90,7 +90,9 @@ terdapat fungsi mysqli_query dengan syntaks update untuk mengubah data dengan ti
 session_start() mengaktifkan session</br>
 session_destroy() untuk menghapus semua session</br>
 header("location:login.php?pesan=logout") mengalihkan halaman sambil mengirim pesan logout</br>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------
+#user name :SUKMARA
+sandi :111111
 # web2
 File Latihan Web2
 >>>>>>> f1d40a9346b1fda0a825b68981f0ba5b661454d2
